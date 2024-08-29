@@ -1,4 +1,4 @@
-﻿﻿# Segurança de Redes de Computadores
+﻿# Segurança de Redes de Computadores
 
 ## :page_with_curl: Atividade 8
 
